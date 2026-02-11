@@ -1,0 +1,35 @@
+{
+  "total_sessions": 3,
+  "successful_sessions": 0,
+  "success_rate": 0.0,
+  "current_model_version": "1.0.3",
+  "last_training_date": null,
+  "performance_baseline": 0.55,
+  "recent_sessions": [
+    {
+      "session_id": "learn_20260212_014406",
+      "date": "2026-02-12T01:44:06.994948",
+      "outcome": "FAILED_VALIDATION",
+      "samples": 100,
+      "improvement": -0.050000000000000044,
+      "data_quality": 1.0
+    },
+    {
+      "session_id": "learn_20260212_014407",
+      "date": "2026-02-12T01:44:07.140224",
+      "outcome": "FAILED_VALIDATION",
+      "samples": 180,
+      "improvement": 0.17222222222222217,
+      "data_quality": 1.0
+    },
+    {
+      "session_id": "learn_20260212_014407",
+      "date": "2026-02-12T01:44:07.329665",
+      "outcome": "FAILED_VALIDATION",
+      "samples": 190,
+      "improvement": 0.10789473684210527,
+      "data_quality": 1.0
+    }
+  ],
+  "export_timestamp": "2026-02-12T01:44:07.528544"
+}
